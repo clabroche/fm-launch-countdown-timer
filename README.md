@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL [here](https://fm-launch-countdown-timer.corentinlabroche.fr)
+- Live Site URL [here](https://clabroche.github.io/fm-launch-countdown-timer/)
 
 ## My process
 
