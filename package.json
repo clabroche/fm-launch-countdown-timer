@@ -1,6 +1,6 @@
 {
   "name": "fm-launch-countdown-timer",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "private": true,
   "scripts": {
     "client": "vue-cli-service serve",
